@@ -21,7 +21,7 @@
 
 Faço **aplicativos e utilitários para desktop**, sempre com foco em ferramentas que resolvem problema de verdade no dia a dia, no **Windows** e no **Linux**.
 
-Gosto de ir de alto nível (apps com Electron e WebRTC) até baixo nível (código nativo em C mexendo direto com memória). Aprender fazendo é o que mais me move. 🚀
+Gosto de ir de alto nível (apps com Electron e WebRTC) até baixo nível (código nativo em C mexendo direto com memória). Aprender fazendo é o que mais me move. 
 
 ---
 
